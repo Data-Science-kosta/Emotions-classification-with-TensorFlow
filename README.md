@@ -1,4 +1,5 @@
 # Emotions Classification with TensorFlow
+![emotions](https://github.com/Data-Science-kosta/Emotions-classification-with-TensorFlow/blob/master/garbage/emocije.gif)
 ##### This is a fully convolutional neural network that classifies 8 different emotions from a given images.
 ##### The program works in real time through the desktop camera.
 ### DATA:
